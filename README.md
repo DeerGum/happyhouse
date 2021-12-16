@@ -1,4 +1,4 @@
-# :house:happyhouse Project:house:
+# :house:Happyhouse Project:house:
 
 ## 개요
 공공 데이터를 활용한 서울부동산 매매정보 검색 사이트
