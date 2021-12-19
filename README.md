@@ -1,13 +1,17 @@
 # :house:Happyhouse Project:house:
 <p align="left">
-<img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alt="VueJS" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img alt="BootstrapVue" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00.svg?&style=flat&logo=Java&logoColor=white"/>
+<img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat&logo=SpringBoot&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=Javascript&logoColor=F7DF1E"/>
+<img alt="VueJS" src ="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=Vue.js&logoColor=4FC08D"/>
+<img alt="BootstrapVue" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+<img alt="KakaoMap" src ="https://img.shields.io/badge/KakaoMap-FFCD00?style=flat&logo=Kakao&logoColor=black"/>
+<img alt="KakaoSearch" src ="https://img.shields.io/badge/KakaoSearch-FFCD00?style=flat&logo=Kakao&logoColor=black"/>
+<img alt="STS" src ="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img alt="vscode" src ="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
 <img align="center" width="1080" src="https://user-images.githubusercontent.com/47655983/146666439-27f86af3-c2de-4c73-bdb7-3d561802fc06.png">
@@ -21,8 +25,17 @@
 
 <br>
 
+## :sunglasses:팀원소개
+| **[황정준](https://github.com/DeerGum)** | **[최다연](https://github.com/cdy27)** |
+| :-----------------: | :-----------------: |
+| <img src="https://user-images.githubusercontent.com/47655983/146668240-15b549fa-8f46-4778-92ab-a485f82b92f6.jpg" width=180px, height=240px> | <img src="https://user-images.githubusercontent.com/47655983/146668002-12930761-e7fa-407a-80e9-944a54e39769.jpg"  width=180px, height=240px> |
+| 팀장 & BackEnd 메인개발 | FrontEnd 메인개발 |
+| BackEnd 개발환경 구축 <br> DB설계 <br> REST API 설계 | FrontEnd 개발환경 구축 <br> FrontEnd 화면 설계 <br> 페이지 디자인 |
+
+<br>
+
 ## :wrench:개발 환경
-![개발환경](https://user-images.githubusercontent.com/47655983/146353484-2c6112f6-f277-4657-8983-970db47a2457.png)
+![개발환경](https://user-images.githubusercontent.com/47655983/146667446-28555b54-25be-4148-8eeb-5e40c7d5b21e.png)
 
 <br>
 
@@ -43,9 +56,5 @@
 
 ## :green_book:기능
 [페이지 보러가기](./page)
+
 <br>
-
-## :sunglasses:개발자
-[황정준](https://github.com/DeerGum)
-
-[최다연](https://github.com/cdy27)
