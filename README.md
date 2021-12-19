@@ -1,4 +1,12 @@
 # :house:Happyhouse Project:house:
+<img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="VueJS" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img alt="BootstrapVue" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 ## 개요
 공공 데이터를 활용한 서울아파트 매매정보 검색 사이트
@@ -7,64 +15,31 @@
 
 <br>
 
-## 개발 환경
+## :wrench:개발 환경
 ![개발환경](https://user-images.githubusercontent.com/47655983/146353484-2c6112f6-f277-4657-8983-970db47a2457.png)
 
 <br>
 
-## 기술 스택
-작성예정
-
-<br>
-
-## 프로젝트 기간
+## :calendar:프로젝트 기간
 2021.11.18 ~ 2021.11.26
 
 <br>
 
-## 프로젝트 설계
+## :page_facing_up:프로젝트 설계
 작성예정(노션)
 
 <br>
 
-## 프로젝트 진행과정
+## :running:프로젝트 진행과정
 작성예정(노션)
 
 <br>
 
-## 기능
-- 회원
-    - 일반회원
-        - 회원정보 수정
-        - 게시글 작성, 수정, 삭제
-        - 댓글 작성, 수정, 삭제
-    - 관리자
-        - 회원 수정
-        - 회원 삭제
-        - 공지사항 게시글 작성
-        - 게시판 글 삭제
-- 게시판
-    - 게시글
-        - 목록 보기
-        - 글 보기
-        - 작성
-        - 수정
-        - 삭제
-    - 댓글
-        - 보기
-        - 작성
-        - 수정
-        - 삭제
-- 홈화면 검색
-    - 다음검색엔진 아파트 검색
-    - 서버DB에 저장된 아파트 검색
-- 아파트 매매 검색
-    - 구, 군, 동 기준으로 아파트 검색
-    - 아파트 거래내역 보기
-    - 해당하는 아파트 위치 지도에 표시
+## :green_book:기능
+[페이지 보러가기](./page)
 <br>
 
-## 개발자
-[황정준](https://github.com/DeerGum) (백엔드)
+## :sunglasses:개발자
+[황정준](https://github.com/DeerGum)
 
-[최다연](https://github.com/cdy27) (프론트엔드)
+[최다연](https://github.com/cdy27)
