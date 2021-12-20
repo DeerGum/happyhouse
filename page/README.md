@@ -22,7 +22,7 @@
 > 지도에서 주택 위치를 확인할 수 있는 기능 <br>
 > 검색한 주택의 거래 내역 정보를 확인할 수 있는 기능<br>
 
-gif
+![apartment](https://user-images.githubusercontent.com/38400859/146727155-0e74649d-e3e4-4386-8183-8475407a0977.gif)
 
 <br>
 
