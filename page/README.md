@@ -13,7 +13,7 @@
 > 웹문서에서 주택의 정보를 검색할 수 있는 기능 <br>
 > 검색한 주택이 HAPPYHOUSE에 있는지 미리 확인할 수 있는 기능 <br>
 
-gif
+![home](https://user-images.githubusercontent.com/38400859/146725682-1707a429-bad6-4184-958f-505fdb1f294b.gif)
 
 <br>
 
