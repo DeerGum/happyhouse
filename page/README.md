@@ -32,7 +32,7 @@
 > 게시글에 답글을 달고 해당 답글을 수정 및 삭제할 수 있는 기능 <br>
 > 게시글을 조건에 따라 검색할 수 있는 기능 <br>
 
-gif
+![notice_qna](https://user-images.githubusercontent.com/38400859/146742152-47cb6f71-b3b5-43c7-8aa9-414b0fe96062.gif)
 
 <br>
 
@@ -41,4 +41,4 @@ gif
 > MyPage에서 내 정보 수정, 회원 탈퇴 기능 <br>
 > AdminPage에서 회원 관리 기능 <br>
 
- gif
+ ![mypage_admin](https://user-images.githubusercontent.com/38400859/146742158-ba65af45-3154-4efa-8005-9a4839eae96d.gif)
