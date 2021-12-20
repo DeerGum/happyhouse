@@ -3,7 +3,7 @@
 
 ## :house:로그인 & 회원가입
 
-gif
+![login](https://user-images.githubusercontent.com/38400859/146722722-63944984-9c2c-47fe-85ae-ed2a31292ba8.gif)
 
 <br>
 
